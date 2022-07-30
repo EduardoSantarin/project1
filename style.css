@@ -1,0 +1,16 @@
+
+
+h1 {
+    color: blue;
+    text-shadow: -4px 3px 4px rgba(0,0,0,0.6); ;
+}
+
+
+body {
+    background: #c6ecee;
+    background: linear-gradient(13deg,#c6ecee 50%, #acc4cd 20%);
+    background: -webkit-linear-gradient(13deg,#c6ecee 50%, #acc4cd 20%);
+    background: -moz-linear-gradient(13deg,#c6ecee 50%, #acc4cd 20%);
+    background-repeat: no-repeat;
+}
+
